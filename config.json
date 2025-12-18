@@ -1,0 +1,201 @@
+{
+    "de-CH": {
+        "styles": {
+            "bg": "#111111",
+            "lang-select-color": "#222829",
+            "bg-light": "#111111",
+            "welcome-bonus-bg": "#111111",
+            "top-games-hover-fg": "#ffffff",
+            "main-bg": "#1b1b18",
+            "text": "#ffffff",
+            "text-black": "#ffffff",
+            "table-head": "#050505",
+            "text-head": "#ffffff",
+            "hero-title-text": "#222829",
+            "welcome-bonus-text": "#C6A95A",
+            "yellow": "#951E26",
+            "yellow-button": "#C6A95A",
+            "button-text": "#ffffff",
+            "main-button-text": "#ffffff",
+            "border-color": "#efefdc",
+            "casino-cards": "#111111",
+            "bonus-border-head": "#efefdc",
+            "bonus-border": "#93939f",
+            "pay-back": "#deeadf",
+            "providers-back": "#111111",
+            "faq-label": "#111111",
+            "bg-footer": "#111111",
+            "copyright": "#e7e7d5",
+            "starColor": "#951E26",
+            "baseFont": {
+                "value": "Roboto",
+                "isCustom": false
+            },
+            "primaryFont": {
+                "value": "Inter",
+                "isCustom": false
+            },
+            "welcomeBonusFont": {
+                "value": "Roboto",
+                "isCustom": false
+            }
+        },
+        "seo": {
+            "name": "Casino Barrière Courrendlin",
+            "title": "Casino Barrière Courrendlin: Spiel, Gastronomie, Aktionen und Loyalität",
+            "description": "Das offizielle Porträt vom Casino Barrière Courrendlin: Spielautomaten, Roulette, Blackjack, Ultimate Poker, Steakhouse «Le 12», Loyalitätsprogramm, Festtags‑Promos, Gratis‑Parkplatz und bequeme Öffnungszeiten.",
+            "canonical": "courrendlin-casino.com",
+            "ogImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/1127",
+            "ogImageWidth": 1200,
+            "ogImageHeight": 630,
+            "twitterSite": "courrendlin-casino.com",
+            "favicon": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/1128",
+            "keywords": "casino, online casino, gambling, slots, table games"
+        },
+        "icons": {
+            "icon192": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/1129"
+        },
+        "header": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/1130",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "logoAlt": "Casino Barrière Courrendlin Logo"
+        },
+        "nav": {
+            "signUp": "Registrieren",
+            "playNow": "Jetzt spielen"
+        },
+        "hero": {
+            "title": "Casino Barrière Courrendlin – Slots, Roulette, Blackjack und «Le 12»",
+            "textDesktop": "Exklusives Willkommensangebot von",
+            "textMobile": "Exklusives Willkommensangebot von",
+            "playGame": "Spiel starten",
+            "claimBonus": "Bonus sichern",
+            "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/1131",
+            "imageSizeModifier": 0,
+            "imageYModifier": -3,
+            "imageXModifier": 0,
+            "mobileImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/1132",
+            "mobileImageSizeModifier": -5,
+            "mobileImageYModifier": 2,
+            "mobileImageXModifier": 0
+        },
+        "topCasino": {
+            "topCasinoButtonText": "Bonus sichern",
+            "title": "Top-Casino",
+            "allCasino": "Alle Casino",
+            "welcomeBonusText": "Willkommensbonus"
+        },
+        "bonusDetails": {
+            "title": "Bonusdetails",
+            "getBonusButtonText": "Bonus erhalten",
+            "maximumAmountText": "Maximalbetrag",
+            "wagerText": "Umsatz",
+            "bonusCodeText": "Bonuscode",
+            "casino": "Casino",
+            "bonuses": "Boni",
+            "rate": "Rate",
+            "freeSpins": "Freispiele",
+            "moreInfo": "Mehr Infos",
+            "get": "Erhalten",
+            "refresh": "Aktualisieren"
+        },
+        "advantages": {
+            "title": "Vorteile",
+            "advantagesBeforeText": "",
+            "items": [
+                "Moderne Slots und Jackpots.",
+                "Klassische Roulette und Blackjack.",
+                "Ultimate Poker am Tisch.",
+                "Elektronische Roulette‑Terminals.",
+                "Steakhouse «Le 12» vor Ort.",
+                "Aktionen und Saison‑Promos.",
+                "Gratis‑Parkplatz direkt beim Haus."
+            ],
+            "advantagesAfterText": "Das Casino Barrière Courrendlin verbindet Komfort, zuverlässigen Service und ein ausgewogenes Spielangebot. Bequeme Öffnungszeiten, schneller Zutritt und regelmässige Animationen runden den Besuch ab.\n",
+            "knowMore": "Mehr erfahren",
+            "appTitle": "Casino Barrière Courrendlin App",
+            "mobile": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/1133",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "mobileAlt": "Casino Barrière Courrendlin App",
+            "mobileGooglePlayImageTitle": "Casino Barrière Courrendlin App",
+            "mobileIosImageTitle": "Casino Barrière Courrendlin App"
+        },
+        "games": {
+            "playNowText": "Jetzt spielen",
+            "title": "Beliebte Spiele",
+            "allGames": "Alle Spiele"
+        },
+        "about": {
+            "history": {
+                "title": "Über Casino Barrière Courrendlin",
+                "description1": "Ein starkes Loyalitätsprogramm mit Spiel‑Credits und Restaurantvorteilen (z.B. Pakete ab CHF 50). Saisonale Aktionen und Verlosungen, inklusive Preisformaten wie «Auto Jackpot».\n",
+                "items": [
+                    "Punkte x10 am Mittwoch.",
+                    "Neue Jackpots fortlaufend.",
+                    "Verlosung grosser Preise."
+                ],
+                "description2": "Das Casino Barrière Courrendlin bietet eine moderne Umgebung mit freundlicher Atmosphäre und gutem Besuchsfluss. Hier spielt man bequem an Slots, geniesst klassische Tische und probiert elektronische Formate. Gäste schätzen das breite Unterhaltungsangebot und die Gastronomie vor Ort. ",
+                "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/1135",
+                "imageSizeModifier": 0,
+                "imageYModifier": 0,
+                "imageXModifier": 0,
+                "imageAlt": "History",
+                "description3": "Das Loyalitätsprogramm bringt zusätzliche Vorteile und Geschenke. Saisonale Aktionen sorgen für Abwechslung. Parkplatz und klare Regeln machen den Besuch einfach. Das Team begleitet die Gäste aufmerksam durch den Abend. Die Öffnungszeiten sind auf verschiedene Bedürfnisse zugeschnitten. Der Abend in Courrendlin vereint Spiel, Begegnung und Erholung."
+            }
+        },
+        "custom": {
+            "customHtml": {
+                "title": "Eleganz und Spielgefühl: Ihr Abend im Casino Barrière Courrendlin",
+                "description": "<p>\nDer Innenraum ist modern inszeniert, mit warmem Licht, weichen Texturen und klaren Zonen. Die Atmosphäre ist freundlich und entspannt: Slots und Tische sind übersichtlich angeordnet, Restaurant und Bar halten den Abendfluss ohne Hektik. Visuelle Akzente schaffen Intimität, gleichzeitig bleibt die Fläche funktional bei hoher Frequenz.\n\n<\/p>\n<br>\n\n<p>\nDie Öffnungszeiten sind auf verschiedene Besuchsformen ausgelegt: Slots laufen von morgens bis spät, klassische Tische starten am Abend bis zum Betriebsschluss. Ideal für einen kurzen Day‑Drop‑In oder den kompletten Abend mit Live‑Tischen.\n\n<\/p>\n<br>\n<p>\nDie Casino‑Bar liegt in der Slot‑Zone und bietet Drinks und Snacks, ohne den Spielfluss zu unterbrechen. Das Steakhouse «Le 12» setzt kulinarische Akzente: Grill, saisonale Gerichte und ruhige Plätze mit Blick auf den Hügel sorgen für die genussvolle Pause zwischen den Sessions.\n\n<\/p>\n<br>\n<p>\nDas Entertainment umfasst Animationen, Themenabende, Verlosungen und Festtags‑Specials. Ein separater Saal mit Parkett eignet sich für Corporate‑ und Privatevents mit Dinner, Cocktail und Show.\n\n<\/p>\n<br>\n<p>\nBonus‑ und Loyalitätsprogramme sind zentral: die Clubkarte beschleunigt den Eintritt, sammelt Punkte für Spiel und Rewards, bringt Einladungen zu exklusiven Events und Saisonphasen mit erhöhten Punkte‑Multiplikatoren.\n\n<\/p>\n<br>\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nService ohne Umwege: Team, Zahlungen und Auszahlungen\n\n<\/h3>\n\n<p>\nDas Team — Empfang, Bar und Spiel — arbeitet diskret und effizient, unterstützt beim Eintritt, bei Regeln und beim Komfort am Tisch. Basis‑Sprachen sind Französisch und Deutsch; Englisch ist im Gästeservice verfügbar. So fühlen sich Besucher aus verschiedenen Regionen gut aufgehoben.\n\n<\/p>\n<br>\n\n<p>\nHauptwährung ist CHF. Akzeptiert werden in der Regel Bargeld und Karten (Visa, Mastercard; teils Maestro\/EC), im Restaurant übliche Terminals. Ein Teil des Budgets in Bar ist sinnvoll für Spiel und Trinkgeld.\n\n<\/p>\n<br>\n<p>\nVor Ort steht in der Regel ein Geldautomat; Währungswechsel ist begrenzt, daher CHF am besten im Voraus vorbereiten. Am Tisch tauscht die Kasse Jetons in Bargeld; elektronische Automaten geben Tickets, die an der Kasse oder an Auszahlungsterminals eingetauscht werden.\n\n<\/p>\n<br>\n<p>\nAuszahlungen erfolgen an der Kasse: bei hohen Beträgen kann ein Ausweis verlangt und eine Quittung erstellt werden; dies sind Standardprozesse gemäss Responsible Gaming und AML. Bitte bewahren Sie Tickets und Jetons bis zur Auszahlung auf.\n\n<\/p>\n<br>\n<p>\nSpieler‑Gewinne in lizenzierten Schweizer Casinos sind im Regelfall einkommenssteuerfrei; die Abgaben betreffen den Betreiber. Ausnahmen betreffen Lotterien und externe Formate — bei Bedarf beim Responsible‑Gaming‑Team nachfragen.\n\n<\/p>\n<br>\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nBesuchsregeln im Casino Barrière Courrendlin: Komfort und Verantwortung\n\n<\/h3>\n\n<p>\nDer Eintritt ist einfach: Ausweis und 18+. Dresscode ist smart casual; gepflegtes Erscheinungsbild zählt. Im Spielsaal gelten Responsible‑Gaming‑Grundsätze und gegenseitiger Respekt. Foto‑\/Video im Spielbereich kann aus Sicherheitsgründen eingeschränkt sein. Stark alkoholisierte oder störende Personen werden nicht eingelassen. Rauchen ist im Spielsaal verboten; dafür gibt es ausgewiesene Bereiche ausserhalb. Der Parkplatz ist gratis, Zufahrt bequem, Beschilderung klar. Anreise via A16 und ÖV, nächster Hub ist Delémont. Das Team unterstützt beim schnellen Eintritt und bei der Orientierung. Das Restaurant ist für Familien zugänglich, die Spielbereiche nur ab 18. Bei Bedarf sind Selbstsperre und Beratung zu verantwortungsvollem Spiel verfügbar.\n\n<\/p>\n<br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nListe\n<\/h4>\n\n <ul>\n            <li>• \nEintritt: 18+, gültiger Ausweis, Kontrolle am Eingang.\n<\/li>\n            <li>• \nDresscode: smart casual; Sport‑ und Strandkleidung nicht empfohlen.\n<\/li>\n            <li>• \nVerbote: Filmen an Tischen, aggressives Verhalten, Spielen im Rausch.\n<\/li>\n            <li>• \n Rauchen: nur in ausgewiesenen Zonen; Saal ist rauchfrei.\n<\/li>\n\t    <li>• \nResponsible Gaming: Selbstsperre und Limits möglich.\n<\/li>\n\t    <li>• \nParken: gratis, direkt beim Eingang.\n<\/li>\n\t    <li>• \nAnreise: Autobahn A16; ÖV bis Delémont + lokale Linien.\n<\/li>\n\t    <li>• \nRestaurant: Familienfreundlich; Spielbereiche 18+.\n<\/li>\n\t    <li>• \nSicherheit: Security und Video; Anweisungen befolgen.\n<\/li>\n\t    <li>• \nZahlungen: CHF bereithalten; Karten an Kasse und im Restaurant.\n<\/li>\n        <\/ul><br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nLe Club Barrière \/ Le Carré VIP: mehr Vorteile bei jedem Besuch\n\n<\/h3>\n\n<p>\nDas Loyalitätsprogramm basiert auf einer persönlichen Karte, die den Zutritt beschleunigt und Punkte für Slots und Tische sammelt. Punkte lassen sich in Spiel‑Credits, Restaurant‑Vouchers und Katalog‑Geschenke umwandeln. Regelmässige Aktionen erhöhen den Multiplikator — z.B. Tage mit x10 Punkten. Der Status richtet sich nach den letzten 12 Monaten; Levels bringen zusätzliche Privilegien von Prioritätszugang bis zu exklusiven Einladungen. Die Karte ist gratis und wird am Empfang gegen Ausweis ausgegeben. Eine digitale Version steht in der App zur Verfügung. Mitglieder erhalten Infos zu Private‑Events und Saison‑Promos. Punkte werden an Slots (Karte einstecken) und an Tischen (Wechsel beim Croupier registrieren) gebucht. Das Programm ist auf transparente Sammlung und schnelle Einlösung ausgelegt. Peak‑Promos sorgen für spürbare Punktesprünge — zeitweise sind Multiplikatoren bis x10 möglich.\n\n<\/p>\n<br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nRegistrierung\n<\/h4>\n\n <ul>\n            <li>• \nGratis‑Karte am Empfang gegen Ausweis.\n<\/li>\n            <li>• \nSofortige Aktivierung; digitale Karte in der App.\n<\/li>\n            <li>• \nPunkte an Slots und Tischen; Anzeige im Profil.\n<\/li>\n        <\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nLevels und Erhalt\n<\/h4>\n\n <ul>\n            <li>• \nPrivilège: Startlevel mit ersten Punkten.\n<\/li>\n            <li>• \nOr: Punkte durch Spiel und Gastro.\n<\/li>\n            <li>• \nPlatine: hohes Punktekonto über 12 Monate.\n<\/li>\n            <li>• \nPremium: erweiterte Privilegien und Einladungen.\n<\/li>\n\t    <li>• \nUltime: maximale Boni, Prioritäten und Exklusives.\n<\/li>\n        <\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nBoni und Vorteile\n<\/h4>\n\n <ul>\n            <li>• \nSpiel‑Credits aus Punkten (z.B. Pakete ab CHF 20\/50).\n<\/li>\n            <li>• \nRestaurant‑Vouchers und Rabatte (saisonal bis 10–15%).\n<\/li>\n            <li>• \nPriority Entry und schnelle Checks.\n<\/li>\n            <li>• \nEinladungen zu Events und Preisziehungen.\n<\/li>\n\t    <li>• \nSaisonale Punkte‑Multiplikatoren (z.B. x10 an bestimmten Tagen).\n<\/li>\n        <\/ul><br>\n\n"
+            }
+        },
+        "softwareProviders": {
+            "title": "Softwareanbieter"
+        },
+        "custom_2": {
+            "customHtml_2": {
+                "title": "Unterhaltung und Gaming im Casino Barrière Courrendlin",
+                "description": "<h3 style = \"font-weight: bold;font-size: 32px;\">\nBoni und Spezialangebote: so wird Ihr Spiel noch besser\n\n<\/h3>\n\n<p>\nDer Promo‑Kalender ist reich: saisonale Ziehungen, Festtags‑Räder, Themenabende und neue Slots mit aktualisierten Jackpot‑Linien. Vorteile auch ausserhalb des Clubs: Restaurant‑Pakete, Geschenk‑Tickets und Aktionen mit erhöhten Chancen. «Auto Jackpot» setzt einen Wow‑Effekt — Verlosung eines grossen Sachpreises. Festwochen gehen oft mit Instant‑Geschenken und Bonus‑Tickets einher. In E‑Roulette und Slots erscheinen neue Features für mehr Engagement. Für Geniesser gibt es Pakete mit Fixbetrag und inkludierten Services. Das Rahmenprogramm ergänzt das Spiel mit Tanzabenden und Live‑Musik. Aktive Offers werden vor Ort und via Club‑Kommunikation bekanntgegeben. Kombinieren Sie Spiel und Genuss, um Emotion und Wert des Besuchs zu maximieren. Denken Sie an verantwortungsvolle Einsätze.\n\n<\/p>\n<br>\n<ul>\n            <li>• \nRestaurant‑Paket: Fixpaket ab CHF 50 mit inkludierten Leistungen.\n<\/li>\n            <li>• \nPromo «x10 Punkte»: Tage mit zehnfachen Club‑Punkten.\n<\/li>\n            <li>• \nAuto Jackpot: Verlosung eines «Mini Cabriolet».\n<\/li>\n            <li>• \nHoliday Wheel: Festtags‑Glücksrad, Geschenke und Bonus‑Tickets.\n<\/li>\n\t    <li>• \nNeue Slots: Launch mit aktuellen Jackpot‑Netzen.\n<\/li>\n\t    <li>• \nThemenabende: Showcases, DJ‑Sets, Sofort‑Preise.\n<\/li>\n\t    <li>• \nGeschenk‑Tickets: Spiel‑Tickets in Spezialaktionen.\n<\/li>\n\t    <li>• \nFood‑\/Bar‑Rabatte: saisonal im «Le 12» und an der Bar.\n<\/li>\n        <\/ul><br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nBeliebte Spiele in Courrendlin: von Klassik bis Elektronik\n\n<\/h3>\n\n<p>\nDas Fundament bilden moderne Spielautomaten: Klassiker, Video‑Slots und progressive Jackpots auf einzelnen Linien. Live‑Tische bieten klare, beliebte Formate mit zügigem Spielfluss. Elektronische Roulette über Terminals ist ideal für Screen‑Steuerung. Ultimate Poker am Live‑Tisch passt zu kurzen Sessions. Roulette englisch bleibt der dynamischste Tisch des Abends. Blackjack ist die Wahl für Strategen mit Grundregeln. Sporadisch erscheinen Exoten wie Boule, Punto Banco und Sic Bo — achten Sie auf den Tagesplan. Das Verhältnis von Slots und Tischen macht den Abend variabel. Elektronische Stationen verkürzen Wartezeiten und geben Tempo‑Kontrolle. Alles begleitet von Responsible‑Gaming‑Hinweisen. Das Team hilft bei Regeln und Tisch‑Einstieg.\n\n<\/p>\n<br>\n\n <ul>\n            <li>• \nSpielautomaten: Klassiker, Video‑Slots, Progressiv, Multiline.\n<\/li>\n            <li>• \nRoulette englisch: schneller Rhythmus, klare Mechanik.\n<\/li>\n            <li>• \nBlackjack: Basisstrategie, Hand‑Kontrolle.\n<\/li>\n            <li>• \nUltimate Poker: dynamisch gegen den Dealer.\n<\/li>\n\t    <li>• \nElektronische Roulette: Terminals mit intuitiver Bedienung.\n<\/li>\n\t    <li>• \nBoule \/ Punto Banco \/ Sic Bo: punktuelle Formate gemäss Tagesplan.\n<\/li>\n        <\/ul><br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nMinimale und maximale Einsätze\n<\/h3>\n<br>\n<table style=\"width:100%; border-collapse:collapse; margin-top:16px;\">\n            <thead>\n                <tr style=\"background:#C6A95A; color:#fff;\">\n                    <th style=\"border:2px solid #ccc; padding:8px; text-align:left;\">Spiel<\/th>\n                    <th style=\"border:2px solid #ccc; padding:8px; text-align:center;\">Mindesteinsatz<\/th>\n                    <th style=\"border:2px solid #ccc; padding:8px; text-align:center;\">Höchsteinsatz<\/th>\n                <\/tr>\n            <\/thead>\n            <tbody>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Roulette englisch<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">CHF 2–10<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">CHF 200–2’000 <\/td>\n                <\/tr>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Blackjack<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">CHF 5–25<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">CHF 500–2’000<\/td>\n                <\/tr>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Ultimate Poker<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">CHF 10–20 <\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">CHF 500–1’500<\/td>\n                <\/tr>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Elektronische Roulette<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">CHF 1–5 <\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\"> CHF 200–500<\/td>\n                <\/tr>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Slots<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">CHF 0.01–1<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">CHF 50–100 pro Spin<\/td>\n                <\/tr>\n \n            <\/tbody>\n        <\/table><br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nEvents, Shows und reguläre Unterhaltung: Courrendlin in Bewegung\n\n<\/h3>\n\n<p>\nDas Event‑Programm wechselt Festwochen, Themenabende und lokale Showcases. Im Saal mit Parkett‑Tanzfläche lassen sich Corporate‑ und Privatevents mit Bankett, Cocktail und Show kombinieren. Regelmässig laufen Animationen zu Kalenderdaten: von Weihnachts‑Glücksrädern bis Silvester‑Nächten mit Geschenken. Der Spielbereich wird mit DJ‑Sets und Live‑Musik ergänzt, damit der Abend zum Ereignis wird. Ein eigenständiger Nachtclub ist nicht der Kern des Casinos, doch die Late‑Night‑Atmosphäre mit Musik und Tanz schafft Club‑Feeling und einen sanften Übergang vom Spiel zur Entspannung. Für Gruppen steht Organisationssupport bereit — Seating bis Technik — für flexible Programme nach Wunsch.\n\n<\/p>\n<br>\n\n<ul>\n            <li>• \nFesttags‑Glücksräder: Preise, Tickets, Sofort‑Geschenke.\n<\/li>\n            <li>• \nDJ‑Abende und Live‑Musik: Abendrhythmus, Tanzfläche.\n<\/li>\n            <li>• \nThemennächte: Kostüm‑Motive, Mini‑Shows.\n<\/li>\n            <li>• \nCorporate & Privatevents: Bankett + Show + Cocktail.\n<\/li>\n\t    <li>• \nSlot‑Launch‑Animationen: Präsentationen, Mini‑Ziehungen.\n<\/li>\n\t    <li>• \nFoto‑Zonen & Aktivitäten: schnelle Interaktionen für Gäste.\n<\/li>\n        <\/ul><br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nGastronomie, Bar und Erholung: wohin vor und nach dem Spiel\n\n<\/h3>\n\n<p>\nDas Steakhouse «Le 12» ist der kulinarische Anker: Grill‑Klassiker, saisonale Speisen und ruhige Plätze mit Hügelblick. Mittags und abends geöffnet — ideal für Lunch oder späten Dinner. Die Casino‑Bar liegt bei den Slots und bietet schnellen Zugriff auf Drinks und Snacks; perfekt für die kurze Pause zwischen Einsätzen. Für Erholung ausserhalb des Spiels sorgen Lounge‑Akzente: Foto‑Zonen, kleine Animationen und Musik‑Setups für festliche Stimmung. Hotels gibt es nicht direkt im Haus, doch in Delémont stehen passende Optionen bereit; die Fahrt ist kurz, Parken und Beleuchtung machen die nächtliche Rückkehr komfortabel.\n\n<\/p>\n<br>\n<ul>\n            <li>• \nSteakhouse «Le 12»: Grill, Saisonmenü, Hügelblick.\n<\/li>\n            <li>• \nCasino‑Bar: Cocktails, Kaffee, Snacks in der Slot‑Zone.\n<\/li>\n            <li>• \nLounge‑Aktivitäten: Foto‑Ecken, Mini‑Animationen, Musik‑Setups.\n<\/li>\n            <li>• \nHotels in Delémont: bequeme Unterkünfte vor\/nach dem Spiel.\n<\/li>\n\n        <\/ul><br>"
+            }
+        },
+        "faq": {
+            "title": "FAQ",
+            "items": [
+                {
+                    "title": "Wird Fremdwährung akzeptiert?",
+                    "answer": "Hauptwährung ist CHF; Wechsel begrenzt, CHF besser im Voraus."
+                },
+                {
+                    "title": "Familienoptionen?",
+                    "answer": "Restaurant ist familienfreundlich; Spielbereich nur ab 18."
+                },
+                {
+                    "title": "Wie erhalte ich die Clubkarte?",
+                    "answer": "Gratis am Empfang gegen Ausweis; Punkte an Slots und Tischen."
+                },
+                {
+                    "title": "Muss ich Steuern auf Gewinne zahlen? ",
+                    "answer": "Spieler‑Gewinne in lizenzierten Schweizer Casinos sind in der"
+                }
+            ]
+        },
+        "footer": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/1136",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "copyright": "Casino Barrière Courrendlin"
+        }
+    },
+    "langs": [
+        {
+            "code": "de-CH",
+            "name": "Немецкий",
+            "isDefault": true
+        }
+    ]
+}

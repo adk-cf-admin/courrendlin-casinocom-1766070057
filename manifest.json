@@ -1,0 +1,19 @@
+{
+  "name": "Casino Barrière Courrendlin",
+  "short_name": "Casino Barrière Courrendlin",
+  "theme_color": "",
+  "background_color": "#111111",
+  "display": "standalone",
+  "orientation": "portrait",
+  "scope": "/",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "_assets/images/1766067492-favicon-32x32-9.webp",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "maskable any"
+    }
+  ],
+  "splash_pages": null
+}
